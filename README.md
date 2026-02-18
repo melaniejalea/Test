@@ -32,6 +32,7 @@ jupyter notebook notebooks/magi_ml.ipynb
 
 Las queries SQL están en `sql/queries.sql` para ejecutar en DataGrip.  
 Los outputs del modelo (gráficas y checkpoint) se guardan automáticamente en `outputs/`.
+Toda la parte de ML se realizo dentro de `src/ml_pipeline.ipynb` desde la extracción de los datos a las conclusiones
 
 ## Stack
 - **Base de datos:** MariaDB
