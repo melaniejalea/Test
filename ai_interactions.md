@@ -9,3 +9,4 @@ Aqui se presentan los prompt e informacion buscada en internet para poder resolv
  - Como puedo generar la conexión de mi DB en un Jupyter Notebook definido ya un .env (A claude)
  - Como calcular las ultimas instancias de un sujeto en un dataframe historico (A claude y se busco online)
  - Como generar un gráfico de residuos ya entrenado mi modelo pytorch (A claude)
+ - Que debe contener un readme para explicar y ejecutar un proyecto (A claude)
